@@ -42,7 +42,7 @@ It allows you to **add, mark complete/incomplete, delete tasks**, and your tasks
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/Chetanmore4596/todo-app.git
 
 # 2️⃣ Navigate to project folder
 cd todo-app
