@@ -25,11 +25,12 @@ It allows you to **add, mark complete/incomplete, delete tasks**, and your tasks
 
 ---
 
-## 📸 Screenshots  
+## 📸 Screenshots  Screenshots/Dashboard.png
+ 
 
 | Dashboard | Add Task | Mark Task Complete | Delete Task |
 |---------|------------------|-------------|-------------|
-| ![Todo-Dashboard](screenshots/Dashboard.png) | ![Add Task](screenshots/Add-task.png) | ![Complete Task](screenshots/Complete-task.png) | ![Delete Task](screenshots/Delete-Task.png) |
+| ![Todo-Dashboard](./Screenshots/Dashboard.png) | ![Add Task](./Screenshots/Add-task.png) | ![Complete Task](./Screenshots/Complete-task.png) | ![Delete Task](./Screenshots/Delete-Task.png) |
 
 
 ---
